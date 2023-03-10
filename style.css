@@ -24,3 +24,14 @@ th, td, caption{
 h1, h2, h3{
  color: red;
 }
+
+button{
+ background: rgba(0, 0, 255, 0.75);
+ color: white;
+ border: 1px solid rgb(110, 105, 105);
+}
+
+button:hover{
+ background: rgba(0, 0, 255, 0.25);
+ 
+}
