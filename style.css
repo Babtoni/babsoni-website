@@ -1,0 +1,26 @@
+body{
+ min-height: 100vh;
+ max-width: 800px;
+ margin: 0 auto;
+ padding: 1rem;
+ border-left: 1px solid black;
+ border-right: 1px solid black;
+ background: url("/favicon.ico");
+ background-repeat: no-repeat;
+ background-size: contain;
+ background-position: center;
+ background-attachment: fixed;
+}
+
+th, td, caption{
+ border: 1px solid black;
+ font-family: 'Courier New', Courier, monospace;
+ border-collapse: separate;
+ padding: 0.5rem;
+ background: pink;
+ color: blue;
+}
+
+h1, h2, h3{
+ color: red;
+}
